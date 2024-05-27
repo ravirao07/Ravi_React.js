@@ -24,8 +24,8 @@ const handlesubmit=(e)=>{
 }
   return (
   <div >
-      <h2>Student Form</h2>
-      <form onSubmit={handlesubmit} style={{boxShadow:"0px 0px 5px 0.8px"}}>
+      <h2>Student Form</h2><br /><br />
+      <form onSubmit={handlesubmit} style={{boxShadow:"0px 0px 5px 0.8px" ,height:"380px"}}>
         <input style={{backgroundColor:"transparent",color:"white"}} className="form-control form-control-lg" type="text" name='name' value={name} onChange={(e) => handlechange(e)} placeholder='name' />  <br />
         <input style={{backgroundColor:"transparent"}} className="form-control form-control-lg" type="email" name='email' value={email} onChange={(e) => handlechange(e)} placeholder='email' /><br />
         <input style={{backgroundColor:"transparent"}} className="form-control form-control-lg" type="password" name='password' value={password} onChange={(e) => handlechange(e)} placeholder='password' /><br />
