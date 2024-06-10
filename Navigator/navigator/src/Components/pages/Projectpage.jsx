@@ -21,7 +21,7 @@ const Projectpage = () => {
   return loading ? <h1> Loading......</h1> :(
     <div>
       <h1>Project page</h1>
-      <div style={{display:"flex",justifyContent:"center"}}>
+      <div style={{display:"flex",justifyContent:"center", boxShadow:"1px 2px 8px 4px", width:"25%",margin:"auto",marginTop:"70px"}}>
         <Card style={{ width: '22rem' }}>
           <Card.Img variant="top" src={product.image} width={250} height={250} />
           <Card.Body> 

@@ -4,7 +4,7 @@ const PrivateRoutes = ({children}) => {
     const token = localStorage.getItem('token')
     console.log(token,"hello")
     if(!token){
-      return <h1>plase login</h1>
+      return <h1 style={{color:"blue"}}>Pleas Sing in your Accouont</h1>
 
     }
   return children

@@ -17,7 +17,8 @@ const Productpage = () => {
   },[])
 
   return loading ? <h1> Loading......</h1> : (
-    <div>
+    <div style={{backgroundImage: `url("https://media.istockphoto.com/id/883847534/photo/abstract-textured-square-background.jpg?s=2048x2048&w=is&k=20&c=JCUOD9CBBijpAVs0bDX7inJWel4GH6XyZsasxbqYhZY=")`,
+    backgroundPosition: "center", backgroundRepeat: "no-repeat", backgroundSize: "cover", height: "100hv", width :"100%"}}>
       <h1>Product page</h1>
       <div style={{display:"grid",gridTemplateColumns:"repeat(3,1fr)",gap:"15px"}}>
           {mydate.map((el)=>{

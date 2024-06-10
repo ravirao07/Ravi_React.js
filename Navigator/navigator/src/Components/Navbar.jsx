@@ -10,14 +10,14 @@ const Navbar = () => {
         // {path : "/login", title : "Login"}
     ]
   return (
-    <div style={{display:"flex",justifyContent:"space-around"}}>
+    <div style={{display:"flex",justifyContent:"space-around", backgroundColor:"skay",height:"50px",fontSize:"25px"}}>
         {link.map((el)=> (
             <NavLink style={({isActive})=>{
               return  isActive ? {color:"red"} : {color:"teal" ,textDecoration:"none"}
             }}
              key={el.path}  to={el.path}>{el.title} </NavLink>
         ))}
-          <Link to="/login"><Button variant="primary">Login</Button></Link>
+          <Link to="/login"><Button variant="primary" style={{width:"80px",height:"30px"}}>Login</Button></Link>
       
     </div>
   );
