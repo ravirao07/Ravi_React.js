@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 
 #####################################################################################################################################################################
-*******************************************  Project Video ************************************************************
-video url[https://drive.google.com/file/d/16M5sFWITU6m-P9tHGD9sT-0wwNDTac/view?us=sharing]
+*******************************************  Project Video Firebase-Auth ************************************************************
+*************************video url [https://drive.google.com/file/d/1OTLxRjO9gX0kwLjFEkIfzmenU1-8kSN4/view?usp=sharing]************************
