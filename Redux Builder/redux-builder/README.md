@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 #####################################################################################################################################################################
-*******************************************  Project Video ************************************************************
-video url[https://drive.google.com/file/d/16M5sFWITU6m-P9tHGD9sT-0wwNDTac/view?usp=sharing]
+*******************************************  Project Video Redux-Bulider ************************************************************
+video url[https://drive.google.com/file/d/1ILKjQAwnhUbY_Eup4mmdNPvE4Mwd2p1R/view?usp=sharing]
