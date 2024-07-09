@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 ############################################################################################################################################################
 ******************************************* Project Video google-Authication ******************************************** 
-*******************video url[https://drive.google.com/file/d/1PbJr9xDb8Vx9JrNkkAeHMTnlICED-_rT/view?usp=sharing]********************************
+*******************video url[ https://drive.google.com/file/d/1PbJr9xDb8Vx9JrNkkAeHMTnlICED-_rT/view?usp=sharing ]********************************
